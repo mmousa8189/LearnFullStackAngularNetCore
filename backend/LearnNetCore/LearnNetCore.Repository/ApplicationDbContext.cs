@@ -2,7 +2,7 @@
 
 namespace LearnNetCore.Repository
 {
-    public class Class1
+    public class ApplicationDbContext
     {
     }
 }
